@@ -1,5 +1,5 @@
 <h1 align="center">Dupla: Guilherme Lirioberto e Lucas Ribeiro Alvino</h1>
-<h3 align="center">Atividades práticas referentes as aulas de Sistemas Distibuído 2023_UFRR</h3>
+<h3 align="center">Atividades práticas referentes as aulas de Sistemas Distibuídos 2023_UFRR</h3>
 
 <p align="left">
 </p>
